@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035532860904",
+    "project_id": "bhaktiyoga-927ee",
+    "storage_bucket": "bhaktiyoga-927ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035532860904:android:4a2986597f362104fdf85d",
+        "android_client_info": {
+          "package_name": "com.bhaktiyoga.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035532860904-1ulvom6codjo5fgdse2g66prd0n780pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6Go56dTWAkiViIGqVdR8CfbEwyR9S70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035532860904-1ulvom6codjo5fgdse2g66prd0n780pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

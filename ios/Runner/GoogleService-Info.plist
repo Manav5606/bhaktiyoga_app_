@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1035532860904-jv40v7e6jvif8n2rvdcq5k87jgqov7gn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1035532860904-jv40v7e6jvif8n2rvdcq5k87jgqov7gn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1035532860904-6190ql1c1t6te3vt54obch3chlkqv2h7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCjjHRn1Mg44WkhYSCD8QboR0ajqjicchg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1035532860904</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bhaktiyoga.bhaktiapp</string>
+	<key>PROJECT_ID</key>
+	<string>bhaktiyoga-927ee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bhaktiyoga-927ee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1035532860904:ios:2976c2303ab226dcfdf85d</string>
+</dict>
+</plist>
